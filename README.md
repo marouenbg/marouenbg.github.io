@@ -1,27 +1,16 @@
-# Hello, Pages! Theme V2
+# Marouen Ben Guebila
 
-A more "advanced" starter theme,
-see the [Hello, Pages! Theme V1](https://github.com/henrythemes/hello-pages-theme)
-for a more "basic" version. The V2 includes:
+I am passionate about computational biology and aiming to take on the grand challenge of analyzing the unprecedent scale of biological data.
 
-- Custom master page layout template in `_layouts` e.g. `page.html`, etc.
-- Shared (common) template/page building blocks using `_includes` e.g. `pages.html`, `footer.html`, `github.html`, etc.
-- Footer with last built time e.g. `{{ site.time }}` (and Jekyll version e.g. `{{ jekyll.version }}`)
-- And more
+### Education
 
+- Ph.D. in Biology at the [University of Luxembourg](http://uni.lu). [Doctoral Dissertation](https://github.com/marouenbg/PhD-thesis).
+- Master in Bioinformatics at Université Denis Diderot, Paris, France. This is where I got my first formal training in Bioinformatics through the support of inspiring mentors like Prof. Catehrine Etchebest at Paris Diderot and Dr. Zsolt Böcksei at Sanofi.
+- Docteur en Pharmacie at the University of Monastir, Faculty of Pharmacy, Tunis, Tunisia. I am a pharmacist by training, I took courses and performed internships in clinical biology. I was mentored by Col. Mehdi Dridi and Maj. Ezzedine Ghazouani. Doctoral dissertation.
 
+### Software
 
-### Live Demo
-
-See a live demo @ [`henrythemes.github.io/hello-pages-theme-v2` »](https://henrythemes.github.io/hello-pages-theme-v2)
-
-
-### More Themes
-
-For more themes in the Hello! series, see:
-
-- [Hello, Jekyll! Theme](https://github.com/henrythemes/hello-jekyll-theme)
-- [Hello, Minima! Theme](https://github.com/henrythemes/hello-minima-theme)
+- [ACHR.cu](https://github.com/marouenbg/ACHR.cu)
 
 For even more themes see the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
 

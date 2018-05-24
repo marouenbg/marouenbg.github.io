@@ -11,6 +11,7 @@ I am passionate about computational biology and aiming to take on the grand chal
 ### Software
 
 - [ACHR.cu](https://github.com/marouenbg/ACHR.cu): A cuda implementation of a popular sampling algorithm of metabolic models.
+- veryfastFVA (VFFVA)
 
 For even more themes see the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
 

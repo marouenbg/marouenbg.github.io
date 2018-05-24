@@ -14,7 +14,7 @@ We were third in the [Falling Walls Lab](https://wwwfr.uni.lu/universite/actuali
 Team: Marouen Ben Guebila and Johan Thunberg.
 
 ### Hacking Health Camp 2018
-We won two awards in one of the most renown health hackatons, which took place in Strasbourg, France.
+We won two awards in one of the most renown health hackathons, which took place in Strasbourg, France.
 
 The first award was from the [insurance group VYV](https://www.groupe-vyv.fr/).
 

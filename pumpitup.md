@@ -24,8 +24,12 @@ Team: Marouen Ben Guebila, Aurélien Michot, and Quentin.
 
 ## Prototype
 We devoloped the prototype of the pump in the hacking health camp 2018.
-We used a Raspberry Pi and a three axis accelerometer to [analyze](https://github.com/marouenbg/pump-it-up) the hand movmenets and detect frequencies associated with dyskinesia or akinesia in Parkinson disease.
+We used a Raspberry Pi and a three axis accelerometer to [analyze](https://github.com/marouenbg/pump-it-up) the hand movemenets and detect frequencies associated with dyskinesia or akinesia in Parkinson disease.
 
+## Market
+Subcutaneous pumps in Parkinson's disease were applied to the administration of apomorphine. Levodopa could be continuously administrated through jejunal pumps.
+
+The subcutanous injection of levodopa is in development by [neuroderm](http://neuroderm.com/), but the feedback control remains a technical and theoretical challenge.
 
 ## Acknowledgments
 This page wouldn't exist without the passion and determination of two inspiring people: Johan Thunberg and Aurélien Michot.

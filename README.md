@@ -5,12 +5,12 @@ I am passionate about computational biology and aiming to take on the grand chal
 ### Education
 
 - Ph.D. in Biology at the [University of Luxembourg](http://uni.lu). [Doctoral Dissertation](https://github.com/marouenbg/PhD-thesis).
-- Master in Bioinformatics at Université Denis Diderot, Paris, France. This is where I got my first formal training in Bioinformatics through the support of inspiring mentors like Prof. Catehrine Etchebest at Paris Diderot and Dr. Zsolt Böcksei at Sanofi.
-- Docteur en Pharmacie at the University of Monastir, Faculty of Pharmacy, Tunis, Tunisia. I am a pharmacist by training, I took courses and performed internships in clinical biology. I was mentored by Col. Mehdi Dridi and Maj. Ezzedine Ghazouani. Doctoral dissertation.
+- [Master in Bioinformatics](http://www.dsimb.inserm.fr/m2bi/) at Université Denis Diderot, Paris, France. This is where I got my first formal training in Bioinformatics through the support of inspiring mentors like Prof. Catehrine Etchebest at Paris Diderot and Dr. Zsolt Böcksei at Sanofi.
+- Docteur en Pharmacie at the University of Monastir, [Faculty of Pharmacy](http://www.fphm.rnu.tn/), Tunis, Tunisia. I am a pharmacist by training, I took courses and performed internships in clinical biology. I was mentored by Col. Mehdi Dridi and Maj. Ezzedine Ghazouani. Doctoral dissertation.
 
 ### Software
 
-- [ACHR.cu](https://github.com/marouenbg/ACHR.cu)
+- [ACHR.cu](https://github.com/marouenbg/ACHR.cu): A cuda implementation of a popular sampling algorithm of metabolic models.
 
 For even more themes see the [Dr. Jekyll's Themes](https://drjekyllthemes.github.io) directory.
 

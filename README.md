@@ -18,3 +18,6 @@ I am passionate about computational biology and aiming to take on the grand chal
 
 Check my [google scholar](https://scholar.google.fr/citations?user=-YdHk2QAAAAJ&hl=en) page.
 
+### Contact
+
+Reach me via [twitter](https://twitter.com/marouenbg) or by [email](marouen.b.guebila@gmail.com).

@@ -4,9 +4,9 @@ I am active in various student and professional associations. My activites are f
 
 ## Past activities
 
-- International Pharmaceutical Students Federation (IPSF): successively design and creativity subcomittee team, medicine awareness coordinator, pharmacy education chairperson, and advisory board member.
+- [International Pharmaceutical Students Federation](https://www.ipsf.org/) (IPSF): successively design and creativity subcomittee team member, medicine awareness coordinator, pharmacy education chairperson, and advisory board member.
 
-- International Society for Computational Biology's Regional Student Group Luxembourg (RSG Luxembourg): successively cofounder, secretary general, board member, and advisory board member.
+- [International Society for Computational Biology's](http://www.iscb.org/) [Regional Student Group Luxembourg](http://rsg-luxembourg.iscbsc.org/) (RSG Luxembourg): successively cofounder, secretary general, board member, and advisory board member.
 
 ## Active memberships 
 

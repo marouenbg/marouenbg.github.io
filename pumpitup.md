@@ -1,7 +1,5 @@
 # Pump it up!
 
-The levodopa feedback controlled pump.
-
 In 2015, I imagined with [Dr. Johan Thunberg](https://scholar.google.fr/citations?user=EG4ZBbcAAAAJ&hl=en) at the University of Luxembourg a subcutaneous levodopa pump that adapts the infusion speed with respect to three feedback sensors: i) hand shaking, ii) brain local
 field potential, and iii) real time levodopa concentrations in the brain.
 
@@ -11,13 +9,17 @@ We layed down [our vision for the levodopa pump](https://arxiv.org/abs/1608.0723
 ## Awards
 
 ### Falling Walls Luxembourg 2015
-We were third in the [Falling Walls Lab](https://wwwfr.uni.lu/fdef/actualites/falling_walls_lab_luxembourg_calls_for_young_talents) innovation competition and won a 500 eur award to pursue the project.
+We were third in the [Falling Walls Lab](https://wwwfr.uni.lu/universite/actualites/a_la_une/pranjul_shah_is_the_falling_walls_lab_winner) innovation competition and won a 500 eur award to pursue the project.
+
 Team: Marouen Ben Guebila and Johan Thunberg.
 
 ### Hacking Health Camp 2018
 We won two awards in one of the most renown health hackatons, which took place in Strasbourg, France.
+
 The first award was from the [insurance group VYV](https://www.groupe-vyv.fr/).
+
 The second award was from the [French syndicate of medical practioneers](http://www.lesml.org/).
+
 Team: Marouen Ben Guebila, Aurélien Michot, and Quentin.
 
 ## Prototype

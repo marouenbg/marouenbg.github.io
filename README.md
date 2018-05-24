@@ -1,4 +1,4 @@
-# Marouen Ben Guebila
+# About me
 
 I am passionate about computational biology and aiming to take on the grand challenge of analyzing the unprecedent scale of biological data.
 

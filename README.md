@@ -20,4 +20,4 @@ Check my [google scholar](https://scholar.google.fr/citations?user=-YdHk2QAAAAJ&
 
 ### Contact
 
-Reach me via [twitter](https://twitter.com/marouenbg) or by [email](marouen.b.guebila@gmail.com).
+Reach me via [twitter](https://twitter.com/marouenbg) or by [email](mailto:marouen.b.guebila@gmail.com).

@@ -1,6 +1,6 @@
 # Service to profession
 
-I am active in various student and professional associations. My activites are focused towards the empowerment of students through professional development and peer training.
+I am active in various student and professional associations. My activities are focused towards the empowerment of students through professional development and peer training.
 
 ### Past activities
 

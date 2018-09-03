@@ -11,7 +11,7 @@ I am passionate about computational biology and aiming to take on the grand chal
 ### Software
 
 - [ACHR.cu](https://github.com/marouenbg/ACHR.cu): A cuda implementation of a popular sampling algorithm of metabolic models.
-- veryfastFVA (VFFVA): A dynamically load balanced flux variability analysis of metabolic models.
+- [veryfastFVA (VFFVA)](https://github.com/marouenbg/VFFVA): A dynamically load balanced flux variability analysis of metabolic models.
 - [HeliStatistiX](https://github.com/marouenbg/HeliStatistiX): A tool for the analysis of transmembrane helix tilt and packing angles.
 
 ### Publications

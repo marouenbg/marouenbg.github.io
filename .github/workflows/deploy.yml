@@ -101,6 +101,14 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Repair calc(var(--…)) mangled by CSS minifier 🩹
+        # The production CSS pass spaces out the hyphens of custom properties
+        # used inside calc() (e.g. var(--spacing) -> var( -  - spacing)),
+        # which is invalid and breaks the fixed-top navbar + spacing utilities.
+        run: |
+          for f in _site/assets/css/*.css; do
+            perl -0pi -e 's{var\(\s+-[^)]*\)}{ (my $x=$&)=~s/\s+//g; $x }ge' "$f"
+          done
       - name: Disable Jekyll on GitHub Pages 🚫
         if: github.event_name != 'pull_request'
         run: touch _site/.nojekyll

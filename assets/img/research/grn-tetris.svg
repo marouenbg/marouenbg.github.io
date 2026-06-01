@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 408" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" role="img" aria-label="Animation: a promoter pre-loaded with settled L- and T-shaped transcription-factor pieces; a green S-shaped factor drops in on the right to complete the row, firing the gene and sending an mRNA transcript flying up and to the right; the falling piece clears and the cycle repeats.">
+  <defs>
+    <marker id="tss" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#1c7ed6"/>
+    </marker>
+    <style>
+      .fall1 { animation: fall1 9s infinite; }
+      @keyframes fall1 {
+        0%,8% { transform: translateY(-224px); opacity: 0; }
+        9%    { opacity: 1; }
+        18%   { transform: translateY(0); opacity: 1; }
+        66%   { transform: translateY(0); opacity: 1; }
+        74%   { transform: translateY(0); opacity: 0; }
+        100%  { transform: translateY(-224px); opacity: 0; }
+      }
+      .lineflash { animation: flash 9s infinite; }
+      @keyframes flash { 0%,18% { opacity: 0; } 22% { opacity: 0.72; } 31% { opacity: 0; } 100% { opacity: 0; } }
+      .genepulse { animation: genepulse 9s infinite; }
+      @keyframes genepulse { 0%,20% { fill: #a5d8ff; } 26% { fill: #4dabf7; } 42% { fill: #a5d8ff; } 100% { fill: #a5d8ff; } }
+      .transcript { animation: transcript 9s infinite; }
+      @keyframes transcript {
+        0%,22% { opacity: 0; transform: translate(0,0); }
+        25%    { opacity: 1; transform: translate(5px,-10px); }
+        31%    { opacity: 0.7; transform: translate(30px,-58px); }
+        36%    { opacity: 0.35; transform: translate(74px,-134px); }
+        41%    { opacity: 0; transform: translate(126px,-226px); }
+        100%   { opacity: 0; transform: translate(0,0); }
+      }
+      .transcript2 { animation: transcript2 9s infinite; }
+      @keyframes transcript2 {
+        0%,26% { opacity: 0; transform: translate(0,0); }
+        30%    { opacity: 1; transform: translate(8px,-12px); }
+        38%    { opacity: 0.5; transform: translate(46px,-66px); }
+        46%    { opacity: 0; transform: translate(100px,-152px); }
+        100%   { opacity: 0; transform: translate(0,0); }
+      }
+      .transcript3 { animation: transcript3 9s infinite; }
+      @keyframes transcript3 {
+        0%,29% { opacity: 0; transform: translate(0,0); }
+        33%    { opacity: 1; transform: translate(2px,-14px); }
+        41%    { opacity: 0.5; transform: translate(22px,-74px); }
+        49%    { opacity: 0; transform: translate(60px,-190px); }
+        100%   { opacity: 0; transform: translate(0,0); }
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .fall1, .lineflash, .genepulse, .transcript, .transcript2, .transcript3 { animation: none; }
+      }
+    </style>
+  </defs>
+
+  <rect x="6" y="6" width="868" height="396" rx="18" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1.5"/>
+  <text x="340" y="46" text-anchor="middle" font-size="20" font-weight="700" fill="#334155">Transcription factors</text>
+
+  <!-- promoter band -->
+  <rect x="150" y="296" width="260" height="64" rx="10" fill="#f3f0ff" stroke="#b197fc" stroke-width="1.5" stroke-dasharray="6 4"/>
+  <text x="158" y="289" font-size="13" font-weight="600" fill="#7048e8">promoter</text>
+
+  <!-- DNA / gene locus -->
+  <rect x="60" y="356" width="760" height="14" rx="7" fill="#ced4da"/>
+  <g stroke="#ffffff" stroke-width="1.5" opacity="0.7">
+    <line x1="110" y1="357" x2="110" y2="369"/><line x1="190" y1="357" x2="190" y2="369"/>
+    <line x1="270" y1="357" x2="270" y2="369"/><line x1="350" y1="357" x2="350" y2="369"/>
+  </g>
+
+  <!-- target gene -->
+  <path class="genepulse" d="M548 355 H666 V350 L702 363 L666 376 V371 H548 Z" fill="#a5d8ff" stroke="#4dabf7" stroke-width="2" stroke-linejoin="round"/>
+  <text x="603" y="367" text-anchor="middle" font-size="12" font-weight="600" fill="#1864ab">target gene</text>
+  <path d="M533 356 V322 H586" fill="none" stroke="#1c7ed6" stroke-width="2.5" marker-end="url(#tss)"/>
+  <text x="529" y="316" text-anchor="end" font-size="13" font-weight="700" fill="#1c7ed6">TSS</text>
+
+  <!-- pre-existing settled TF pieces (promoter base): L-piece + T-piece -->
+  <g>
+    <!-- L-piece (orange) -->
+    <rect x="178" y="304" width="24" height="24" rx="5" fill="#ffa94d" stroke="#e8590c" stroke-width="2"/>
+    <rect x="178" y="330" width="24" height="24" rx="5" fill="#ffa94d" stroke="#e8590c" stroke-width="2"/>
+    <rect x="204" y="330" width="24" height="24" rx="5" fill="#ffa94d" stroke="#e8590c" stroke-width="2"/>
+    <rect x="230" y="330" width="24" height="24" rx="5" fill="#ffa94d" stroke="#e8590c" stroke-width="2"/>
+    <!-- T-piece (purple) -->
+    <rect x="282" y="304" width="24" height="24" rx="5" fill="#9775fa" stroke="#7048e8" stroke-width="2"/>
+    <rect x="256" y="330" width="24" height="24" rx="5" fill="#9775fa" stroke="#7048e8" stroke-width="2"/>
+    <rect x="282" y="330" width="24" height="24" rx="5" fill="#9775fa" stroke="#7048e8" stroke-width="2"/>
+    <rect x="308" y="330" width="24" height="24" rx="5" fill="#9775fa" stroke="#7048e8" stroke-width="2"/>
+  </g>
+
+  <!-- falling S-piece (green) that drops in on the right and completes the row -->
+  <g class="fall1">
+    <rect x="308" y="304" width="24" height="24" rx="5" fill="#69db7c" stroke="#2f9e44" stroke-width="2"/>
+    <rect x="334" y="304" width="24" height="24" rx="5" fill="#69db7c" stroke="#2f9e44" stroke-width="2"/>
+    <rect x="334" y="330" width="24" height="24" rx="5" fill="#69db7c" stroke="#2f9e44" stroke-width="2"/>
+    <rect x="360" y="330" width="24" height="24" rx="5" fill="#69db7c" stroke="#2f9e44" stroke-width="2"/>
+  </g>
+
+  <!-- line-complete flash over the finished bottom row -->
+  <rect class="lineflash" x="174" y="327" width="212" height="30" rx="7" fill="#ffffff" opacity="0"/>
+
+  <!-- transcript (mRNA) that flies up and to the right when the gene fires -->
+  <g class="transcript" opacity="0">
+    <path d="M700 363 q8 -9 16 0 t16 0 t16 0" fill="none" stroke="#e8590c" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="748" cy="363" r="3.5" fill="#e8590c"/>
+    <text x="722" y="348" text-anchor="middle" font-size="11" font-weight="700" fill="#e8590c">mRNA</text>
+  </g>
+  <g class="transcript2" opacity="0">
+    <path d="M700 363 q8 -9 16 0 t16 0 t16 0" fill="none" stroke="#e8590c" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="748" cy="363" r="3.5" fill="#e8590c"/>
+    <text x="722" y="348" text-anchor="middle" font-size="11" font-weight="700" fill="#e8590c">mRNA</text>
+  </g>
+  <g class="transcript3" opacity="0">
+    <path d="M700 363 q8 -9 16 0 t16 0 t16 0" fill="none" stroke="#e8590c" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="748" cy="363" r="3.5" fill="#e8590c"/>
+    <text x="722" y="348" text-anchor="middle" font-size="11" font-weight="700" fill="#e8590c">mRNA</text>
+  </g>
+</svg>

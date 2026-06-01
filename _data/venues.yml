@@ -1,0 +1,6 @@
+# Map of publication venue -> URL/color, used to style venue tags on the
+# Publications page. Add entries as needed. Example:
+#
+# "Genome Biology":
+#   url: https://genomebiology.biomedcentral.com/
+#   color: "#1f6feb"

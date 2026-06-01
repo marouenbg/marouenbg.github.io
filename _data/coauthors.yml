@@ -1,0 +1,6 @@
+# Map of author last-name -> name variants/URLs, used to link co-authors on the
+# Publications page. Add entries as your bibliography grows. Example:
+#
+# "benguebila":
+#   - firstname: ["Marouen", "M."]
+#     url: https://marouenbg.github.io

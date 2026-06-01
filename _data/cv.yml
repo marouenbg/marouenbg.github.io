@@ -1,0 +1,64 @@
+cv:
+  name: Marouen Ben Guebila
+  label: Computational and systems biologist
+  email: marouen.b.guebila@gmail.com
+  location: Boston, MA, USA
+  image: ""
+  summary: Computational and systems biologist working on gene regulatory networks, network science, and open-source scientific software (the Network Zoo / netZoo). Pharmacist by training.
+
+  social_networks:
+    - network: GitHub
+      username: marouenbg
+    - network: X
+      username: marouenbg
+
+  sections:
+    Experience:
+      - company: Dana-Farber Cancer Institute
+        position: Instructor of Medicine
+        location: Boston, MA, USA
+        summary: Open-source, parallel software and network methods to model regulatory genomics, small-molecule dynamics, and metabolism from high-dimensional biological data.
+
+    Education:
+      - institution: University of Luxembourg
+        location: Luxembourg
+        url: https://www.uni.lu
+        area: Computational Biology
+        studyType: Ph.D.
+        highlights:
+          - "Doctoral dissertation in computational systems biology."
+
+      - institution: Université Paris Diderot (Paris 7)
+        location: Paris, France
+        url: http://www.dsimb.inserm.fr/m2bi/
+        area: Bioinformatics
+        studyType: M.Sc.
+
+      - institution: Université Pierre et Marie Curie (Sorbonne)
+        location: Paris, France
+        url: https://www.sorbonne-universite.fr/en
+        area: Applied Mathematics
+        studyType: B.Sc.
+
+      - institution: University of Monastir — Faculty of Pharmacy
+        location: Monastir, Tunisia
+        url: http://www.fphm.rnu.tn/
+        area: Pharmacy
+        studyType: Doctor of Pharmacy (PharmD)
+
+    Awards:
+      - title: Hacking Health Camp — two awards
+        authors:
+          - Groupe VYV
+          - French syndicate of medical practitioners
+        date: 2018
+        awarder: Hacking Health Camp, Strasbourg, France
+        summary: Two awards for a closed-loop subcutaneous levodopa pump prototype for Parkinson's disease.
+
+      - title: Falling Walls Lab Luxembourg — 3rd place
+        authors:
+          - University of Luxembourg
+        date: 2015
+        awarder: Falling Walls Lab
+        summary: Third place and award to pursue the levodopa pump concept.
+# TODO: confirm years, and add Experience / current position / skills as desired.

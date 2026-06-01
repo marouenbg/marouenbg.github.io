@@ -65,6 +65,8 @@ My research is at the interface of genomics, machine learning, and network biolo
       <span style="background:rgba(151,117,250,0.16); border:1px solid rgba(151,117,250,0.32); border-radius:999px; padding:.25rem .7rem; font-size:.9rem;">Bootstrap</span>
       <span style="background:rgba(151,117,250,0.16); border:1px solid rgba(151,117,250,0.32); border-radius:999px; padding:.25rem .7rem; font-size:.9rem;">Nextflow</span>
       <span style="background:rgba(151,117,250,0.16); border:1px solid rgba(151,117,250,0.32); border-radius:999px; padding:.25rem .7rem; font-size:.9rem;">JupyterHub</span>
+      <span style="background:rgba(151,117,250,0.16); border:1px solid rgba(151,117,250,0.32); border-radius:999px; padding:.25rem .7rem; font-size:.9rem;">CUDA</span>
+      <span style="background:rgba(151,117,250,0.16); border:1px solid rgba(151,117,250,0.32); border-radius:999px; padding:.25rem .7rem; font-size:.9rem;">OpenMP</span>
     </div>
   </div>
 </div>

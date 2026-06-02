@@ -81,6 +81,22 @@ My research is at the interface of genomics, machine learning, and network biolo
 
 <div style="height: 2.75rem;"></div>
 
+## Professional societies
+
+<div class="society-logos" style="display:flex; flex-wrap:wrap; gap:2.5rem; align-items:center; margin-top:1.5rem;">
+  <a href="https://www.iscb.org/" target="_blank" rel="noopener noreferrer" title="International Society for Computational Biology">
+    <img src="/assets/img/societies/iscb.png" alt="International Society for Computational Biology (ISCB)" style="height:56px; width:auto;" loading="lazy">
+  </a>
+  <a href="https://www.fip.org/" target="_blank" rel="noopener noreferrer" title="International Pharmaceutical Federation (FIP)">
+    <img src="/assets/img/societies/fip.svg" alt="International Pharmaceutical Federation (FIP)" style="height:58px; width:auto;" loading="lazy">
+  </a>
+  <a href="https://www.ipsf.org/" target="_blank" rel="noopener noreferrer" title="International Pharmaceutical Students' Federation">
+    <img src="/assets/img/societies/ipsf.png" alt="International Pharmaceutical Students' Federation (IPSF)" style="height:50px; width:auto;" loading="lazy">
+  </a>
+</div>
+
+<div style="height: 2.75rem;"></div>
+
 ## Funding & support
 
 <div class="funding-logos" style="display:flex; flex-wrap:wrap; gap:2.5rem; align-items:center; margin-top:1.5rem;">

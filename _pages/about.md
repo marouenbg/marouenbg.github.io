@@ -98,7 +98,7 @@ My research is at the interface of genomics, machine learning, and network biolo
   </a>
 </div>
 
-<div style="height: 2.75rem;"></div>
+<div style="height: 4.5rem;"></div>
 
 ## Funding & support
 

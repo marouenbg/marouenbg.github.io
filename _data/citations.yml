@@ -1,3 +1,175 @@
 metadata:
-  last_updated: ''
-papers: {}
+  last_updated: '2026-06-05'
+papers:
+  -YdHk2QAAAAJ:3fE2CSJIrl8C:
+    citations: 6
+    title: 'VFFVA: dynamic load balancing enables large-scale flux variability analysis'
+    year: '2020'
+  -YdHk2QAAAAJ:4DMP91E08xMC:
+    citations: 0
+    title: "Correction for Rando et al.,\u201CPathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through Analysis of Viral Genomics and Structure\u201D"
+    year: '2022'
+  -YdHk2QAAAAJ:4JMBOYKVnBMC:
+    citations: 3
+    title: Reproducible processing of TCGA regulatory networks
+    year: '2025'
+  -YdHk2QAAAAJ:8k81kl-MbHgC:
+    citations: 98
+    title: Crowdsourced mapping of unexplored target space of kinase inhibitors
+    year: '2021'
+  -YdHk2QAAAAJ:9ZlFYXVOiuMC:
+    citations: 24
+    title: Identification and Development of Therapeutics for COVID-19
+    year: '2021'
+  -YdHk2QAAAAJ:9yKSN-GCB0IC:
+    citations: 1
+    title: Systems pharmacology of levodopa absorption
+    year: '2015'
+  -YdHk2QAAAAJ:GnPB-g6toBAC:
+    citations: 0
+    title: 'ACHR. cu: GPU accelerated sampling of metabolic networks.'
+    year: '2019'
+  -YdHk2QAAAAJ:HDshCWvjkbEC:
+    citations: 7
+    title: 'Spacenet: spatial cellular networks from omics data'
+    year: '2024'
+  -YdHk2QAAAAJ:IWHjjKOFINEC:
+    citations: 41
+    title: 'The Network Zoo: a multilingual package for the inference and analysis of gene regulatory networks'
+    year: '2023'
+  -YdHk2QAAAAJ:JV2RwH3_ST0C:
+    citations: 128
+    title: Dietary supplements and nutraceuticals under investigation for COVID-19 prevention and treatment
+    year: '2021'
+  -YdHk2QAAAAJ:KlAtU1dfN6UC:
+    citations: 28
+    title: Gene regulatory network inference as relaxed graph matching
+    year: '2021'
+  -YdHk2QAAAAJ:L8Ckcad2t8MC:
+    citations: 27
+    title: 'DRAGON: determining regulatory associations using graphical models on multi-omic networks'
+    year: '2023'
+  -YdHk2QAAAAJ:LkGwnXOMwfcC:
+    citations: 29
+    title: Predicting gastrointestinal drug effects using contextualized metabolic models
+    year: '2019'
+  -YdHk2QAAAAJ:M3ejUd6NZC8C:
+    citations: 28
+    title: Regulatory network of PD1 signaling is associated with prognosis in glioblastoma multiforme
+    year: '2021'
+  -YdHk2QAAAAJ:MXK_kJrjxJIC:
+    citations: 68
+    title: Toward a Generalizable Framework of Disturbance Ecology Through Crowdsourced Science
+    year: '2021'
+  -YdHk2QAAAAJ:NMxIlDl6LWMC:
+    citations: 0
+    title: Gene regulatory network analysis identifies dysregulation of hypoxia pathways as contributing to glioblastoma treatment resistance in females
+    year: '2026'
+  -YdHk2QAAAAJ:RHpTSmoSYBkC:
+    citations: 9
+    title: Selective loss of Y chromosomes in lung adenocarcinoma modulates the tumor immune environment through cancer/testis antigens
+    year: '2024'
+  -YdHk2QAAAAJ:TFP_iSt0sucC:
+    citations: 2
+    title: Multi-omics protein signaling networks identify sex-specific therapeutic candidates in lung adenocarcinoma
+    year: '2025'
+  -YdHk2QAAAAJ:TQgYirikUcIC:
+    citations: 0
+    title: 'BONOBO: Bayesian Optimized Sample-Specific Networks Obtained by Omics Data'
+    year: '2024'
+  -YdHk2QAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: Dynamical hybrid modeling of human metabolism
+    year: '2018'
+  -YdHk2QAAAAJ:ULOm3_A8WrAC:
+    citations: 29
+    title: Gene targeting in disease networks
+    year: '2021'
+  -YdHk2QAAAAJ:UebtZRa9Y70C:
+    citations: 16
+    title: 'Global network of computational biology communities: ISCB''s Regional Student Groups breaking barriers'
+    year: '2019'
+  -YdHk2QAAAAJ:Wp0gIr-vW9MC:
+    citations: 16
+    title: An online notebook resource for reproducible inference, analysis and publication of gene regulatory networks
+    year: '2022'
+  -YdHk2QAAAAJ:YFjsv_pBGBYC:
+    citations: 2
+    title: Sex differences in gene regulation and its impact on cancer incidence
+    year: '2026'
+  -YdHk2QAAAAJ:YOwf2qJgpHMC:
+    citations: 24
+    title: Predicting genotype-specific gene regulatory networks
+    year: '2022'
+  -YdHk2QAAAAJ:Zph67rFs4hoC:
+    citations: 24
+    title: Dynamic flux balance analysis of whole-body metabolism for type 1 diabetes
+    year: '2021'
+  -YdHk2QAAAAJ:_Qo2XoVZTnwC:
+    citations: 7
+    title: Spatial Cellular Networks from omics data with SpaCeNet
+    year: '2024'
+  -YdHk2QAAAAJ:_kc_bZDykSQC:
+    citations: 97
+    title: 'GRAND: a database of gene regulatory network models across human conditions'
+    year: '2022'
+  -YdHk2QAAAAJ:aqlVkmm33-oC:
+    citations: 13
+    title: 'SARS-CoV-2 and COVID-19: An evolving review of diagnostics and therapeutics'
+    year: '2021'
+  -YdHk2QAAAAJ:d1gkVwhDpl0C:
+    citations: 3
+    title: Toward a closed-loop subcutaneous delivery of L-DOPA
+    year: '2016'
+  -YdHk2QAAAAJ:e5wmG9Sq2KIC:
+    citations: 21
+    title: Bayesian inference of sample-specific coexpression networks
+    year: '2024'
+  -YdHk2QAAAAJ:eQOLeE2rZwMC:
+    citations: 1490
+    title: Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v. 3.0
+    year: '2019'
+  -YdHk2QAAAAJ:hC7cP41nSMkC:
+    citations: 30
+    title: Gene regulatory networks reveal sex difference in lung adenocarcinoma
+    year: '2024'
+  -YdHk2QAAAAJ:hFOr9nPyWt4C:
+    citations: 7
+    title: Higher-order correction of persistent batch effects in correlation networks
+    year: '2024'
+  -YdHk2QAAAAJ:iH-uZ7U-co4C:
+    citations: 4
+    title: Aging-associated alterations in gene regulatory networks associate with risk, prognosis and response to therapy in lung adenocarcinoma
+    year: '2025'
+  -YdHk2QAAAAJ:isC4tDSrTZIC:
+    citations: 2
+    title: 'Sex differences in thyroid aging and their implications in thyroid disorders: insights from gene regulatory networks'
+    year: '2025'
+  -YdHk2QAAAAJ:kNdYIx-mwKoC:
+    citations: 22
+    title: Gene selection for optimal prediction of cell position in tissues from single-cell transcriptomics data
+    year: '2020'
+  -YdHk2QAAAAJ:mVmsd5A6BfQC:
+    citations: 43
+    title: Pathogenesis, symptomatology, and transmission of SARS-CoV-2 through analysis of viral genomics and structure
+    year: '2021'
+  -YdHk2QAAAAJ:qUcmZB5y_30C:
+    citations: 0
+    title: A state-of-the-art database enables a macro perspective on tumor microenvironment
+    year: '2023'
+  -YdHk2QAAAAJ:qxL8FJ1GzNcC:
+    citations: 7
+    title: 'gpuZoo: cost-effective estimation of gene regulatory networks using the graphics processing unit'
+    year: '2022'
+  -YdHk2QAAAAJ:r0BpntZqJG4C:
+    citations: 2
+    title: 'BLOBFISH: Bipartite Limited Subnetworks from Multiple Observations using Breadth-First Search with Constrained Hops'
+    year: '2025'
+  -YdHk2QAAAAJ:u-x6o8ySG0sC:
+    citations: 52
+    title: "Model-based dietary optimization for late-stage, levodopa-treated, Parkinson\u2019s disease patients"
+    year: '2016'
+  -YdHk2QAAAAJ:u5HHmVD_uO8C:
+    citations: 7
+    title: Pharmacy
+    year: '2014'

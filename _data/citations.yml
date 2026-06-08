@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-08'
 papers:
   -YdHk2QAAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -38,7 +38,7 @@ papers:
     title: 'The Network Zoo: a multilingual package for the inference and analysis of gene regulatory networks'
     year: '2023'
   -YdHk2QAAAAJ:JV2RwH3_ST0C:
-    citations: 128
+    citations: 129
     title: Dietary supplements and nutraceuticals under investigation for COVID-19 prevention and treatment
     year: '2021'
   -YdHk2QAAAAJ:KlAtU1dfN6UC:
@@ -50,7 +50,7 @@ papers:
     title: 'DRAGON: determining regulatory associations using graphical models on multi-omic networks'
     year: '2023'
   -YdHk2QAAAAJ:LkGwnXOMwfcC:
-    citations: 29
+    citations: 30
     title: Predicting gastrointestinal drug effects using contextualized metabolic models
     year: '2019'
   -YdHk2QAAAAJ:M3ejUd6NZC8C:
@@ -126,7 +126,7 @@ papers:
     title: Bayesian inference of sample-specific coexpression networks
     year: '2024'
   -YdHk2QAAAAJ:eQOLeE2rZwMC:
-    citations: 1490
+    citations: 1491
     title: Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v. 3.0
     year: '2019'
   -YdHk2QAAAAJ:hC7cP41nSMkC:
@@ -138,7 +138,7 @@ papers:
     title: Higher-order correction of persistent batch effects in correlation networks
     year: '2024'
   -YdHk2QAAAAJ:iH-uZ7U-co4C:
-    citations: 4
+    citations: 5
     title: Aging-associated alterations in gene regulatory networks associate with risk, prognosis and response to therapy in lung adenocarcinoma
     year: '2025'
   -YdHk2QAAAAJ:isC4tDSrTZIC:

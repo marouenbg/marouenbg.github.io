@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-17'
 papers:
   -YdHk2QAAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -10,7 +10,7 @@ papers:
     title: "Correction for Rando et al.,\u201CPathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through Analysis of Viral Genomics and Structure\u201D"
     year: '2022'
   -YdHk2QAAAAJ:4JMBOYKVnBMC:
-    citations: 3
+    citations: 4
     title: Reproducible processing of TCGA regulatory networks
     year: '2025'
   -YdHk2QAAAAJ:8k81kl-MbHgC:
@@ -34,7 +34,7 @@ papers:
     title: 'Spacenet: spatial cellular networks from omics data'
     year: '2024'
   -YdHk2QAAAAJ:IWHjjKOFINEC:
-    citations: 41
+    citations: 42
     title: 'The Network Zoo: a multilingual package for the inference and analysis of gene regulatory networks'
     year: '2023'
   -YdHk2QAAAAJ:JV2RwH3_ST0C:
@@ -54,16 +54,20 @@ papers:
     title: Predicting gastrointestinal drug effects using contextualized metabolic models
     year: '2019'
   -YdHk2QAAAAJ:M3ejUd6NZC8C:
-    citations: 28
+    citations: 29
     title: Regulatory network of PD1 signaling is associated with prognosis in glioblastoma multiforme
     year: '2021'
   -YdHk2QAAAAJ:MXK_kJrjxJIC:
-    citations: 68
+    citations: 69
     title: Toward a Generalizable Framework of Disturbance Ecology Through Crowdsourced Science
     year: '2021'
   -YdHk2QAAAAJ:NMxIlDl6LWMC:
     citations: 0
     title: Gene regulatory network analysis identifies dysregulation of hypoxia pathways as contributing to glioblastoma treatment resistance in females
+    year: '2026'
+  -YdHk2QAAAAJ:O3NaXMp0MMsC:
+    citations: 0
+    title: Deploying a JupyterHub Server for Academic Research Using Netbooks as an Example
     year: '2026'
   -YdHk2QAAAAJ:RHpTSmoSYBkC:
     citations: 9
@@ -82,7 +86,7 @@ papers:
     title: Dynamical hybrid modeling of human metabolism
     year: '2018'
   -YdHk2QAAAAJ:ULOm3_A8WrAC:
-    citations: 29
+    citations: 31
     title: Gene targeting in disease networks
     year: '2021'
   -YdHk2QAAAAJ:UebtZRa9Y70C:
@@ -90,7 +94,7 @@ papers:
     title: 'Global network of computational biology communities: ISCB''s Regional Student Groups breaking barriers'
     year: '2019'
   -YdHk2QAAAAJ:Wp0gIr-vW9MC:
-    citations: 16
+    citations: 17
     title: An online notebook resource for reproducible inference, analysis and publication of gene regulatory networks
     year: '2022'
   -YdHk2QAAAAJ:YFjsv_pBGBYC:
@@ -110,7 +114,7 @@ papers:
     title: Spatial Cellular Networks from omics data with SpaCeNet
     year: '2024'
   -YdHk2QAAAAJ:_kc_bZDykSQC:
-    citations: 97
+    citations: 98
     title: 'GRAND: a database of gene regulatory network models across human conditions'
     year: '2022'
   -YdHk2QAAAAJ:aqlVkmm33-oC:
@@ -126,19 +130,19 @@ papers:
     title: Bayesian inference of sample-specific coexpression networks
     year: '2024'
   -YdHk2QAAAAJ:eQOLeE2rZwMC:
-    citations: 1491
+    citations: 1492
     title: Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v. 3.0
     year: '2019'
   -YdHk2QAAAAJ:hC7cP41nSMkC:
-    citations: 30
+    citations: 31
     title: Gene regulatory networks reveal sex difference in lung adenocarcinoma
     year: '2024'
   -YdHk2QAAAAJ:hFOr9nPyWt4C:
-    citations: 7
+    citations: 9
     title: Higher-order correction of persistent batch effects in correlation networks
     year: '2024'
   -YdHk2QAAAAJ:iH-uZ7U-co4C:
-    citations: 5
+    citations: 6
     title: Aging-associated alterations in gene regulatory networks associate with risk, prognosis and response to therapy in lung adenocarcinoma
     year: '2025'
   -YdHk2QAAAAJ:isC4tDSrTZIC:

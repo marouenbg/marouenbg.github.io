@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-06-22'
 papers:
   -YdHk2QAAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -27,7 +27,7 @@ papers:
     year: '2015'
   -YdHk2QAAAAJ:GnPB-g6toBAC:
     citations: 0
-    title: 'ACHR. cu: GPU accelerated sampling of metabolic networks.'
+    title: 'ACHR.cu: GPU-accelerated sampling of metabolic networks'
     year: '2019'
   -YdHk2QAAAAJ:HDshCWvjkbEC:
     citations: 7
@@ -130,7 +130,7 @@ papers:
     title: Bayesian inference of sample-specific coexpression networks
     year: '2024'
   -YdHk2QAAAAJ:eQOLeE2rZwMC:
-    citations: 1492
+    citations: 1494
     title: Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v. 3.0
     year: '2019'
   -YdHk2QAAAAJ:hC7cP41nSMkC:

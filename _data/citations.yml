@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-06'
 papers:
   -YdHk2QAAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -34,7 +34,7 @@ papers:
     title: 'Spacenet: spatial cellular networks from omics data'
     year: '2024'
   -YdHk2QAAAAJ:IWHjjKOFINEC:
-    citations: 42
+    citations: 43
     title: 'The Network Zoo: a multilingual package for the inference and analysis of gene regulatory networks'
     year: '2023'
   -YdHk2QAAAAJ:JV2RwH3_ST0C:
@@ -58,7 +58,7 @@ papers:
     title: Regulatory network of PD1 signaling is associated with prognosis in glioblastoma multiforme
     year: '2021'
   -YdHk2QAAAAJ:MXK_kJrjxJIC:
-    citations: 69
+    citations: 71
     title: Toward a Generalizable Framework of Disturbance Ecology Through Crowdsourced Science
     year: '2021'
   -YdHk2QAAAAJ:NMxIlDl6LWMC:
@@ -74,7 +74,7 @@ papers:
     title: Selective loss of Y chromosomes in lung adenocarcinoma modulates the tumor immune environment through cancer/testis antigens
     year: '2024'
   -YdHk2QAAAAJ:TFP_iSt0sucC:
-    citations: 2
+    citations: 3
     title: Multi-omics protein signaling networks identify sex-specific therapeutic candidates in lung adenocarcinoma
     year: '2025'
   -YdHk2QAAAAJ:TQgYirikUcIC:
@@ -102,7 +102,7 @@ papers:
     title: Sex differences in gene regulation and its impact on cancer incidence
     year: '2026'
   -YdHk2QAAAAJ:YOwf2qJgpHMC:
-    citations: 24
+    citations: 25
     title: Predicting genotype-specific gene regulatory networks
     year: '2022'
   -YdHk2QAAAAJ:Zph67rFs4hoC:
@@ -130,15 +130,15 @@ papers:
     title: Bayesian inference of sample-specific coexpression networks
     year: '2024'
   -YdHk2QAAAAJ:eQOLeE2rZwMC:
-    citations: 1494
+    citations: 1506
     title: Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v. 3.0
     year: '2019'
   -YdHk2QAAAAJ:hC7cP41nSMkC:
-    citations: 31
+    citations: 32
     title: Gene regulatory networks reveal sex difference in lung adenocarcinoma
     year: '2024'
   -YdHk2QAAAAJ:hFOr9nPyWt4C:
-    citations: 9
+    citations: 10
     title: Higher-order correction of persistent batch effects in correlation networks
     year: '2024'
   -YdHk2QAAAAJ:iH-uZ7U-co4C:

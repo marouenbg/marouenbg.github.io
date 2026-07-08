@@ -14,9 +14,9 @@ Cells decide which genes to switch on by recruiting **transcription factors** to
 
 Representative work on GRN inference:
 
-- **[The Network Zoo: a multilingual package for the inference and analysis of gene regulatory networks](https://doi.org/10.1186/s13059-023-02877-1)** — *Genome Biology* (2023)
-- **[gpuZoo: cost-effective estimation of gene regulatory networks using the GPU](https://doi.org/10.1093/nargab/lqac002)** — *NAR Genomics and Bioinformatics* (2022)
-- **[GRAND: a database of gene regulatory network models across human conditions](https://doi.org/10.1093/nar/gkab778)** — *Nucleic Acids Research* (2021)
+- **[The Network Zoo: a multilingual package for the inference and analysis of gene regulatory networks](https://doi.org/10.1186/s13059-023-02877-1)** — _Genome Biology_ (2023)
+- **[gpuZoo: cost-effective estimation of gene regulatory networks using the GPU](https://doi.org/10.1093/nargab/lqac002)** — _NAR Genomics and Bioinformatics_ (2022)
+- **[GRAND: a database of gene regulatory network models across human conditions](https://doi.org/10.1093/nar/gkab778)** — _Nucleic Acids Research_ (2021)
 
 ## Multiscale dynamical models
 
@@ -26,6 +26,6 @@ Biological systems run on many scales at once — fast molecular kinetics, slowe
 
 Representative work:
 
-- **[Dynamic flux balance analysis of whole-body metabolism for type 1 diabetes](https://doi.org/10.1038/s43588-021-00074-3)** — *Nature Computational Science* (2021)
-- **[Predicting gastrointestinal drug effects using contextualized metabolic models](https://doi.org/10.1371/journal.pcbi.1007100)** — *PLoS Computational Biology* (2019)
-- **[Model-based dietary optimization for late-stage, levodopa-treated, Parkinson's disease patients](https://doi.org/10.1038/npjsba.2016.13)** — *npj Systems Biology and Applications* (2016)
+- **[Dynamic flux balance analysis of whole-body metabolism for type 1 diabetes](https://doi.org/10.1038/s43588-021-00074-3)** — _Nature Computational Science_ (2021)
+- **[Predicting gastrointestinal drug effects using contextualized metabolic models](https://doi.org/10.1371/journal.pcbi.1007100)** — _PLoS Computational Biology_ (2019)
+- **[Model-based dietary optimization for late-stage, levodopa-treated, Parkinson's disease patients](https://doi.org/10.1038/npjsba.2016.13)** — _npj Systems Biology and Applications_ (2016)

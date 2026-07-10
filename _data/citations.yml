@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-10'
 papers:
   -YdHk2QAAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -114,7 +114,7 @@ papers:
     title: Spatial Cellular Networks from omics data with SpaCeNet
     year: '2024'
   -YdHk2QAAAAJ:_kc_bZDykSQC:
-    citations: 98
+    citations: 99
     title: 'GRAND: a database of gene regulatory network models across human conditions'
     year: '2022'
   -YdHk2QAAAAJ:aqlVkmm33-oC:
@@ -130,7 +130,7 @@ papers:
     title: Bayesian inference of sample-specific coexpression networks
     year: '2024'
   -YdHk2QAAAAJ:eQOLeE2rZwMC:
-    citations: 1506
+    citations: 1507
     title: Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v. 3.0
     year: '2019'
   -YdHk2QAAAAJ:hC7cP41nSMkC:

@@ -32,6 +32,8 @@ latest_posts:
 
 My research is at the interface of genomics, machine learning, and network biology. I often combine tools from these disciplines to address fundamental questions about the functioning of biological systems. I develop open-source, parallel software that leverages high-dimensional biological data to model regulatory genomics, small molecule dynamics, and metabolism in time and space.
 
+My primary appointment is in the Department of Medical Oncology at Dana-Farber Cancer Institute, with secondary appointments in the Department of Biostatistics at Harvard T.H. Chan School of Public Health, Harvard Medical School, and the Broad Institute.
+
 <div style="clear: both;"></div>
 
 <div style="display:flex; flex-wrap:wrap; gap:1rem; margin:0.5rem 0 2.25rem;">

@@ -15,7 +15,7 @@ cv:
   sections:
     Experience:
       - company: Dana-Farber Cancer Institute
-        position: Instructor of Medicine
+        position: Instructor in Medicine
         location: Boston, MA, USA
         summary: Open-source, parallel software and network methods to model regulatory genomics, small-molecule dynamics, and metabolism from high-dimensional biological data.
 

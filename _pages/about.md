@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Instructor of Medicine, Dana-Farber Cancer Institute
+subtitle: Instructor in Medicine, Dana-Farber Cancer Institute
 
 profile:
   align: right

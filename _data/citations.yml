@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-24'
 papers:
   -YdHk2QAAAAJ:3fE2CSJIrl8C:
     citations: 6
@@ -10,7 +10,7 @@ papers:
     title: "Correction for Rando et al.,\u201CPathogenesis, Symptomatology, and Transmission of SARS-CoV-2 through Analysis of Viral Genomics and Structure\u201D"
     year: '2022'
   -YdHk2QAAAAJ:4JMBOYKVnBMC:
-    citations: 4
+    citations: 5
     title: Reproducible processing of TCGA regulatory networks
     year: '2025'
   -YdHk2QAAAAJ:8k81kl-MbHgC:
@@ -34,19 +34,19 @@ papers:
     title: 'Spacenet: spatial cellular networks from omics data'
     year: '2024'
   -YdHk2QAAAAJ:IWHjjKOFINEC:
-    citations: 43
+    citations: 45
     title: 'The Network Zoo: a multilingual package for the inference and analysis of gene regulatory networks'
     year: '2023'
   -YdHk2QAAAAJ:JV2RwH3_ST0C:
-    citations: 129
+    citations: 130
     title: Dietary supplements and nutraceuticals under investigation for COVID-19 prevention and treatment
     year: '2021'
   -YdHk2QAAAAJ:KlAtU1dfN6UC:
-    citations: 28
+    citations: 29
     title: Gene regulatory network inference as relaxed graph matching
     year: '2021'
   -YdHk2QAAAAJ:L8Ckcad2t8MC:
-    citations: 27
+    citations: 29
     title: 'DRAGON: determining regulatory associations using graphical models on multi-omic networks'
     year: '2023'
   -YdHk2QAAAAJ:LkGwnXOMwfcC:
@@ -58,7 +58,7 @@ papers:
     title: Regulatory network of PD1 signaling is associated with prognosis in glioblastoma multiforme
     year: '2021'
   -YdHk2QAAAAJ:MXK_kJrjxJIC:
-    citations: 71
+    citations: 70
     title: Toward a Generalizable Framework of Disturbance Ecology Through Crowdsourced Science
     year: '2021'
   -YdHk2QAAAAJ:NMxIlDl6LWMC:
@@ -102,7 +102,7 @@ papers:
     title: Sex differences in gene regulation and its impact on cancer incidence
     year: '2026'
   -YdHk2QAAAAJ:YOwf2qJgpHMC:
-    citations: 25
+    citations: 26
     title: Predicting genotype-specific gene regulatory networks
     year: '2022'
   -YdHk2QAAAAJ:Zph67rFs4hoC:
@@ -114,7 +114,7 @@ papers:
     title: Spatial Cellular Networks from omics data with SpaCeNet
     year: '2024'
   -YdHk2QAAAAJ:_kc_bZDykSQC:
-    citations: 99
+    citations: 100
     title: 'GRAND: a database of gene regulatory network models across human conditions'
     year: '2022'
   -YdHk2QAAAAJ:aqlVkmm33-oC:
@@ -130,19 +130,19 @@ papers:
     title: Bayesian inference of sample-specific coexpression networks
     year: '2024'
   -YdHk2QAAAAJ:eQOLeE2rZwMC:
-    citations: 1507
+    citations: 1520
     title: Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v. 3.0
     year: '2019'
   -YdHk2QAAAAJ:hC7cP41nSMkC:
-    citations: 32
+    citations: 34
     title: Gene regulatory networks reveal sex difference in lung adenocarcinoma
     year: '2024'
   -YdHk2QAAAAJ:hFOr9nPyWt4C:
-    citations: 10
+    citations: 11
     title: Higher-order correction of persistent batch effects in correlation networks
     year: '2024'
   -YdHk2QAAAAJ:iH-uZ7U-co4C:
-    citations: 6
+    citations: 7
     title: Aging-associated alterations in gene regulatory networks associate with risk, prognosis and response to therapy in lung adenocarcinoma
     year: '2025'
   -YdHk2QAAAAJ:isC4tDSrTZIC:
@@ -170,7 +170,7 @@ papers:
     title: 'BLOBFISH: Bipartite Limited Subnetworks from Multiple Observations using Breadth-First Search with Constrained Hops'
     year: '2025'
   -YdHk2QAAAAJ:u-x6o8ySG0sC:
-    citations: 52
+    citations: 53
     title: "Model-based dietary optimization for late-stage, levodopa-treated, Parkinson\u2019s disease patients"
     year: '2016'
   -YdHk2QAAAAJ:u5HHmVD_uO8C:

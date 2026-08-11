@@ -30,7 +30,7 @@ latest_posts:
   .profile img { width: 100%; height: auto; }
 </style>
 
-My research is at the interface of genomics, machine learning, and network biology. I often combine tools from these disciplines to address fundamental questions about the functioning of biological systems. I develop open-source, parallel software that leverages high-dimensional biological data to model regulatory genomics, small molecule dynamics, and metabolism in time and space.
+My research is at the interface of genomics, machine learning, and network biology. I often combine tools from these disciplines to address fundamental questions about the functioning of biological systems. I develop open-source, parallel software that leverages high-dimensional biological data to model regulatory genomics, small molecule dynamics, and metabolism in time and space. I am a contributor to open-source projects such as [the COBRA Toolbox](https://github.com/opencobra/cobratoolbox) and [COBRApy](https://github.com/opencobra/cobrapy).
 
 My primary appointment is in the Department of Medical Oncology at Dana-Farber Cancer Institute, with secondary appointments in the Department of Biostatistics at Harvard T.H. Chan School of Public Health, Harvard Medical School, and the Broad Institute.
 

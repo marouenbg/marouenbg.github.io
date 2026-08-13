@@ -87,6 +87,7 @@ My primary appointment is in the Department of Medical Oncology at Dana-Farber C
 
 I contribute to community-driven scientific software, including:
 
+- [The Network Zoo](https://github.com/netZoo) — multilingual package for the inference and analysis of gene regulatory networks (R, Python, MATLAB, C)
 - [The COBRA Toolbox](https://github.com/opencobra/cobratoolbox) — constraint-based reconstruction and analysis of metabolic networks in MATLAB
 - [COBRApy](https://github.com/opencobra/cobrapy) — constraint-based modeling of biological networks in Python
 - [COVID-19 Review Consortium](https://github.com/greenelab/covid19-review) — collaborative, version-controlled living review of the COVID-19 literature
@@ -96,7 +97,7 @@ I contribute to community-driven scientific software, including:
 ## Recent talks
 
 - Clinical Computational Oncology, Dana-Farber Cancer Institute — 2026
-- Pegaso, Dana-Farber Cancer Institute — 2025
+- PGSAO, Dana-Farber Cancer Institute — 2025
 - Program in Quantitative Genetics, Harvard T.H. Chan School of Public Health — 2022
 - BioC, the Bioconductor conference — 2022
 

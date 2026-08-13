@@ -30,7 +30,7 @@ latest_posts:
   .profile img { width: 100%; height: auto; }
 </style>
 
-My research is at the interface of genomics, machine learning, and network biology. I often combine tools from these disciplines to address fundamental questions about the functioning of biological systems. I develop open-source, parallel software that leverages high-dimensional biological data to model regulatory genomics, small molecule dynamics, and metabolism in time and space. I am a contributor to open-source projects such as [the COBRA Toolbox](https://github.com/opencobra/cobratoolbox) and [COBRApy](https://github.com/opencobra/cobrapy).
+My research is at the interface of genomics, machine learning, and network biology. I often combine tools from these disciplines to address fundamental questions about the functioning of biological systems. I develop open-source, parallel software that leverages high-dimensional biological data to model regulatory genomics, small molecule dynamics, and metabolism in time and space.
 
 My primary appointment is in the Department of Medical Oncology at Dana-Farber Cancer Institute, with secondary appointments in the Department of Biostatistics at Harvard T.H. Chan School of Public Health, Harvard Medical School, and the Broad Institute.
 
@@ -80,6 +80,25 @@ My primary appointment is in the Department of Medical Oncology at Dana-Farber C
 {% bibliography --query @*[selected=true] --group_by none %}
 
 </div>
+
+<div style="height: 2.75rem;"></div>
+
+## Open-source contributions
+
+I contribute to community-driven scientific software, including:
+
+- [The COBRA Toolbox](https://github.com/opencobra/cobratoolbox) — constraint-based reconstruction and analysis of metabolic networks in MATLAB
+- [COBRApy](https://github.com/opencobra/cobrapy) — constraint-based modeling of biological networks in Python
+- [COVID-19 Review Consortium](https://github.com/greenelab/covid19-review) — collaborative, version-controlled living review of the COVID-19 literature
+
+<div style="height: 2.75rem;"></div>
+
+## Recent talks
+
+- Clinical Computational Oncology, Dana-Farber Cancer Institute — 2026
+- Pegaso, Dana-Farber Cancer Institute — 2025
+- Program in Quantitative Genetics, Harvard T.H. Chan School of Public Health — 2022
+- BioC, the Bioconductor conference — 2022
 
 <div style="height: 2.75rem;"></div>
 

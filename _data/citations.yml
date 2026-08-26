@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-26'
 papers:
   -YdHk2QAAAAJ:3fE2CSJIrl8C:
     citations: 7
@@ -50,7 +50,7 @@ papers:
     title: 'DRAGON: determining regulatory associations using graphical models on multi-omic networks'
     year: '2023'
   -YdHk2QAAAAJ:LkGwnXOMwfcC:
-    citations: 30
+    citations: 31
     title: Predicting gastrointestinal drug effects using contextualized metabolic models
     year: '2019'
   -YdHk2QAAAAJ:M3ejUd6NZC8C:
@@ -114,7 +114,7 @@ papers:
     title: Spatial Cellular Networks from omics data with SpaCeNet
     year: '2024'
   -YdHk2QAAAAJ:_kc_bZDykSQC:
-    citations: 102
+    citations: 103
     title: 'GRAND: a database of gene regulatory network models across human conditions'
     year: '2022'
   -YdHk2QAAAAJ:aqlVkmm33-oC:
@@ -130,7 +130,7 @@ papers:
     title: Bayesian inference of sample-specific coexpression networks
     year: '2024'
   -YdHk2QAAAAJ:eQOLeE2rZwMC:
-    citations: 1532
+    citations: 1533
     title: Creation and analysis of biochemical constraint-based models using the COBRA Toolbox v. 3.0
     year: '2019'
   -YdHk2QAAAAJ:hC7cP41nSMkC:

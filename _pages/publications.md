@@ -9,6 +9,23 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+## Papers of the year
+
+<div style="background:rgba(255,169,77,0.10); border:1px solid rgba(255,169,77,0.30); border-radius:12px; padding:1.25rem 1.5rem; margin:1.25rem 0 2.75rem;">
+  <p style="margin:0 0 .5rem;">Two of the coolest papers I came across each year &mdash; work from the wider community that I keep coming back to, not my own.</p>
+  <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
+    <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2026</span>
+    <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
+      <li>
+        <a href="https://www.cell.com/cell/fulltext/S0092-8674(26)00463-0" target="_blank" rel="noopener noreferrer">D-SPIN constructs regulatory network models from scRNA-seq that reveal organizing principles of perturbation response</a>
+        &mdash; Jiang <em>et al.</em>, <em>Cell</em>, May 12, 2026
+      </li>
+    </ul>
+  </div>
+</div>
+
+## My publications
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}

@@ -31,6 +31,15 @@ nav_order: 2
       </li>
     </ul>
   </div>
+  <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
+    <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2015</span>
+    <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
+      <li>
+        <a href="https://doi.org/10.1038/nature15765" target="_blank" rel="noopener noreferrer">Overflow metabolism in <em>E. coli</em> results from efficient proteome allocation</a>
+        &mdash; Basan <em>et al.</em>, <em>Nature</em> 528, 99&ndash;104, 2015
+      </li>
+    </ul>
+  </div>
 </div>
 
 ## My publications

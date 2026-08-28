@@ -22,6 +22,15 @@ nav_order: 2
       </li>
     </ul>
   </div>
+  <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
+    <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2018</span>
+    <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
+      <li>
+        <a href="https://www.nature.com/articles/s41467-018-05417-9" target="_blank" rel="noopener noreferrer">Statistical mechanics for metabolic networks during steady state growth</a>
+        &mdash; De Martino <em>et al.</em>, <em>Nature Communications</em>, 2018
+      </li>
+    </ul>
+  </div>
 </div>
 
 ## My publications

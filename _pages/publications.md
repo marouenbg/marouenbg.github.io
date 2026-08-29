@@ -9,14 +9,15 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-<div style="margin:1.25rem 0 2rem;">
-  <a href="#papers-of-the-year" style="display:inline-flex; align-items:center; gap:.5rem; background:rgba(255,169,77,0.12); border:1px solid rgba(255,169,77,0.35); border-radius:999px; padding:.4rem 1rem; text-decoration:none; font-size:.95rem;">
-    <span>Papers of the year &mdash; my picks from the literature</span>
-    <span aria-hidden="true">&darr;</span>
-  </a>
-</div>
+<nav aria-label="Page sections" style="display:flex; flex-wrap:wrap; align-items:center; gap:.4rem .7rem; margin:1.25rem 0 2rem; padding-bottom:.8rem; border-bottom:1px solid var(--global-divider-color); font-size:.95rem;">
+  <span style="opacity:.65;">Jump to</span>
+  <span style="opacity:.4;" aria-hidden="true">/</span>
+  <a href="#my-publications">My publications</a>
+  <span style="opacity:.4;" aria-hidden="true">/</span>
+  <a href="#papers-of-the-year">Papers of the year</a>
+</nav>
 
-## My publications
+<h2 id="my-publications" style="scroll-margin-top: 5rem;">My publications</h2>
 
 <!-- Bibsearch Feature -->
 

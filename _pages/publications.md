@@ -9,7 +9,28 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
-## Papers of the year
+<div style="margin:1.25rem 0 2rem;">
+  <a href="#papers-of-the-year" style="display:inline-flex; align-items:center; gap:.5rem; background:rgba(255,169,77,0.12); border:1px solid rgba(255,169,77,0.35); border-radius:999px; padding:.4rem 1rem; text-decoration:none; font-size:.95rem;">
+    <span>Papers of the year &mdash; my picks from the literature</span>
+    <span aria-hidden="true">&darr;</span>
+  </a>
+</div>
+
+## My publications
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
+
+<div style="height: 3.5rem;"></div>
+
+<h2 id="papers-of-the-year" style="scroll-margin-top: 5rem;">Papers of the year</h2>
 
 <div style="background:rgba(255,169,77,0.10); border:1px solid rgba(255,169,77,0.30); border-radius:12px; padding:1.25rem 1.5rem; margin:1.25rem 0 2.75rem;">
   <p style="margin:0 0 .5rem;">Two of the coolest papers I came across each year &mdash; work from the wider community that I keep coming back to, not my own.</p>
@@ -40,16 +61,4 @@ nav_order: 2
       </li>
     </ul>
   </div>
-</div>
-
-## My publications
-
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
 </div>

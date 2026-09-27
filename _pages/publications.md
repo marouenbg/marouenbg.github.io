@@ -45,6 +45,15 @@ nav_order: 2
     </ul>
   </div>
   <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
+    <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2025</span>
+    <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
+      <li>
+        <a href="https://proceedings.mlr.press/v267/aiyappa25a.html" target="_blank" rel="noopener noreferrer">Implicit degree bias in the link prediction task</a>
+        &mdash; Aiyappa <em>et al.</em>, <em>ICML</em> (PMLR 267), 2025
+      </li>
+    </ul>
+  </div>
+  <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
     <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2018</span>
     <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
       <li>

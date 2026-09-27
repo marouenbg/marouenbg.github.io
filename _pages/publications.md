@@ -71,4 +71,13 @@ nav_order: 2
       </li>
     </ul>
   </div>
+  <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
+    <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2012</span>
+    <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
+      <li>
+        <a href="https://www.science.org/doi/full/10.1126/science.1216882" target="_blank" rel="noopener noreferrer">Multidimensional optimality of microbial metabolism</a>
+        &mdash; Schuetz <em>et al.</em>, <em>Science</em> 336, 601&ndash;604, 2012
+      </li>
+    </ul>
+  </div>
 </div>

@@ -54,6 +54,15 @@ nav_order: 2
     </ul>
   </div>
   <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
+    <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2017</span>
+    <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
+      <li>
+        <a href="https://www.science.org/doi/10.1126/science.aal4122" target="_blank" rel="noopener noreferrer">Effects of network modularity on the spread of perturbation impact in experimental metapopulations</a>
+        &mdash; Gilarranz <em>et al.</em>, <em>Science</em> 357, 199&ndash;201, 2017
+      </li>
+    </ul>
+  </div>
+  <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
     <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2015</span>
     <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
       <li>

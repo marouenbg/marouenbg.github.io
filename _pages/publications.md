@@ -54,6 +54,15 @@ nav_order: 2
     </ul>
   </div>
   <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
+    <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2021</span>
+    <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
+      <li>
+        <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2104878118" target="_blank" rel="noopener noreferrer">Neural networks to learn protein sequence&ndash;function relationships from deep mutational scanning data</a>
+        &mdash; Gelman <em>et al.</em>, <em>PNAS</em> 118(48): e2104878118, 2021
+      </li>
+    </ul>
+  </div>
+  <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
     <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2019</span>
     <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
       <li>

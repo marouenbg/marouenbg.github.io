@@ -54,6 +54,15 @@ nav_order: 2
     </ul>
   </div>
   <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
+    <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2019</span>
+    <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
+      <li>
+        <a href="https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000289" target="_blank" rel="noopener noreferrer">Resolving noise&ndash;control conflict by gene duplication</a>
+        &mdash; Chapal <em>et al.</em>, <em>PLOS Biology</em> 17(11): e3000289, 2019
+      </li>
+    </ul>
+  </div>
+  <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
     <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2018</span>
     <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
       <li>

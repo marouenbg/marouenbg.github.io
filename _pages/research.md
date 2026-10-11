@@ -32,10 +32,9 @@ Representative work:
 
 ## Robust computational science
 
-Computational findings are only as trustworthy as the code, data, and environments that produce them. I build open infrastructure that makes analyses reproducible and reusable: [Netbooks](https://netbooks.networkmedicine.org), an online notebook resource that publishes gene regulatory network analyses together with the code that generated them, and a protocol for deploying the shared JupyterHub servers that host such resources for academic research. I also advocate for statistical rigor in the analyses themselves — for example, accounting for hidden confounders that can create spurious correlations.
+Computational findings are only as trustworthy as the code, data, and environments that produce them. I build open infrastructure that makes analyses reproducible and reusable: [Netbooks](https://netbooks.networkmedicine.org), an online notebook resource that publishes gene regulatory network analyses together with the code that generated them, and a protocol for deploying the shared JupyterHub servers that host such resources for academic research.
 
 Representative work:
 
 - **[Deploying a JupyterHub server for academic research using Netbooks as an example](https://doi.org/10.1002/cpz1.70396)** — _Current Protocols_ (2026)
-- **[Commentary on ‘corradjust unveils biologically relevant transcriptomic correlations by efficiently eliminating hidden confounders’](https://doi.org/10.1093/nar/gkag932)** — _Nucleic Acids Research_ (2026)
 - **[An online notebook resource for reproducible inference, analysis and publication of gene regulatory networks](https://doi.org/10.1038/s41592-022-01479-2)** — _Nature Methods_ (2022)

@@ -63,6 +63,15 @@ nav_order: 2
     </ul>
   </div>
   <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
+    <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2020</span>
+    <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
+      <li>
+        <a href="https://doi.org/10.7554/eLife.59388" target="_blank" rel="noopener noreferrer">Gene regulation gravitates toward either addition or multiplication when combining the effects of two signals</a>
+        &mdash; Sanford <em>et al.</em>, <em>eLife</em> 9: e59388, December 7, 2020
+      </li>
+    </ul>
+  </div>
+  <div style="display:flex; gap:1.1rem; align-items:baseline; margin-top:1rem;">
     <span style="flex:0 0 3.2rem; font-weight:700; color:#e8590c; font-size:1.05rem;">2019</span>
     <ul style="margin:0; padding-left:1.1rem; line-height:1.7;">
       <li>

@@ -98,8 +98,9 @@ I contribute to community-driven scientific software, including:
 ## Recent talks
 
 - Clinical Computational Oncology, Dana-Farber Cancer Institute — 2026
+- Cancer Data Science, Broad Institute — 2026
 - PGSAO, Dana-Farber Cancer Institute — 2026
-- Celebration of Young Investigators Seminars, DF/HCC — 2023
+- Early Career Investigators Symposium, Dana-Farber Cancer Institute — 2023
 - Program in Quantitative Genetics, Harvard T.H. Chan School of Public Health — 2022
 - BioC, the Bioconductor conference — 2022
 
